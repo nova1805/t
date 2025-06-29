@@ -1,0 +1,8 @@
+flask
+google-generativeai>=0.3.0
+python-dotenv
+pillow
+gunicorn
+streamlit_option_menu
+streamlit>=1.30.0
+
